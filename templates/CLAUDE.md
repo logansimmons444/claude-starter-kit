@@ -25,6 +25,7 @@
 - Projects: ~/Claude/<project-name>
 - Starter kit: ~/claude-starter-kit
 - Guide: https://start-here-logan.vercel.app
+- What I've learned: ~/Claude/learned.md (each mission adds a 5-line recap)
 
 # Skills I have
 - opportunity: pressure-test an idea
