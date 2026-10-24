@@ -16,7 +16,7 @@ You don't type anything. In the Claude desktop app's Code tab, paste this:
 | opportunity | Pressure-tests an idea: why now, who's done it, the sharper version, GO / BEND / KILL | Logan (MIT) |
 | slopmonster | Makes AI-written copy read human. Lint, rewrite, cleanse with a rival model, lint again | [Jack Roberts](https://github.com/ItsssssJack/SlopMonster) (MIT). One change here: the cleanse step uses the free Gemini CLI when Codex isn't installed |
 | brag | Turns a project into a short launch video | [latent-spaces/brag](https://github.com/latent-spaces/brag), installed from upstream |
-| hyperframes-* | The video engine brag uses | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes), installed from upstream |
+| hyperframes, hyperframes-cli, hyperframes-registry, media-use | The video engine brag uses (the four "core" Hyperframes skills; renamed upstream on 2026-10-21) | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes), installed from upstream |
 | last30days | What people are actually saying about a topic in the last 30 days | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill), installed from upstream |
 | skill-creator | Teach Claude a new move and save it as your own skill | [anthropics/skills](https://github.com/anthropics/skills), installed from upstream |
 
